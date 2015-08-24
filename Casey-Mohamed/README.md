@@ -1,5 +1,7 @@
 Notes from Phill for Casey and Mo
 
+Try this: http://docs.python-guide.org/en/latest/scenarios/scrape/
+
 * In the http://hdh.ucsd.edu/DiningMenus/default.aspx?i=64 HTML, we find:
 
 ```
