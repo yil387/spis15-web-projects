@@ -10,6 +10,10 @@ README.md points to all the web project repos
 * http://github.com/sierrastump/SPIS15-Project-web-Sierra-Lauren
  * (Please update [README.md](https://github.com/sierrastump/SPIS15-Project-Web-Sierra-Lauren/blob/master/README.md) with description)  
 * http://github.com/sstone3788/SPIS15-Project-web-Sylvia-Samantha 
+ * Choose your Mom site. 
 * http://github.com/yil387/SPIS15-Project-web-Emily-Yvonne
+ * Jeopardy Game 
 * http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie
+ * 
 * http://github.com/noelRUCSD19/SPIS15-Project-web-Noel-Doni 
+ *  
