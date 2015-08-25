@@ -6,6 +6,7 @@ README.md points to all the web project repos
 * http://github.com/jguidry/SPIS15-Project-web-Les-Wyatt
  * Hide a message in an image, or get message from image
 * http://github.com/caserino7/SPIS15-Project-web-Casey-Mohamed 
+ * (Please update [README.md](https://github.com/caserino7/SPIS15-Project-Web-Casey-Mohamed/blob/master/README.md) with description) 
 * http://github.com/sierrastump/SPIS15-Project-web-Sierra-Lauren
 * http://github.com/sstone3788/SPIS15-Project-web-Sylvia-Samantha 
 * http://github.com/yil387/SPIS15-Project-web-Emily-Yvonne
