@@ -8,7 +8,8 @@ README.md points to all the web project repos
 * http://github.com/caserino7/SPIS15-Project-web-Casey-Mohamed 
  * Dining Hall Web crawler and rating, recommendation app
 * http://github.com/sierrastump/SPIS15-Project-web-Sierra-Lauren
- * (Please update [README.md](https://github.com/sierrastump/SPIS15-Project-Web-Sierra-Lauren/blob/master/README.md) with description)  
+ * Photo Editing App
+ * http://sierra-lauren-photo.herokuapp.com/
 * http://github.com/sstone3788/SPIS15-Project-web-Sylvia-Samantha 
  * Choose your Mom site. 
 * http://github.com/yil387/SPIS15-Project-web-Emily-Yvonne
