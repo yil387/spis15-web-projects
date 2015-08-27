@@ -20,6 +20,8 @@ README.md points to all the web project repos
  * Jeopardy Game 
  * http://stark-mesa-5249.herokuapp.com
 * http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie
- * (Please update [README.md](http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie/blob/master/README.md) with description)
+ * plan an activity with friends 
+ * limitless-plains-8649.herokuapp.com 
 * http://github.com/noelRUCSD19/SPIS15-Project-web-Noel-Doni 
- *  (Please update [README.md](http://github.com/noelRUCSD19/SPIS15-Project-web-Noel-Doni/blob/master/README.md) with description)
+ * plan common free time.
+ * insert heroku link here
