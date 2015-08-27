@@ -11,7 +11,8 @@ README.md points to all the web project repos
  * Photo Editing App
  * http://sierra-lauren-photo.herokuapp.com/
 * http://github.com/sstone3788/SPIS15-Project-web-Sylvia-Samantha 
- * Choose your Mom site. 
+ * Choose your Mom site.
+ * http://yurmum.herokuapp.com
 * http://github.com/yil387/SPIS15-Project-web-Emily-Yvonne
  * Jeopardy Game 
 * http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie
