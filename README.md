@@ -24,4 +24,4 @@ README.md points to all the web project repos
  * limitless-plains-8649.herokuapp.com 
 * http://github.com/noelRUCSD19/SPIS15-Project-web-Noel-Doni 
  * plan common free time.
- * insert heroku link here
+ * http://gentle-everglades-8669.herokuapp.com
