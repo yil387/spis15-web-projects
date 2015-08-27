@@ -21,7 +21,7 @@ README.md points to all the web project repos
  * http://stark-mesa-5249.herokuapp.com
 * http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie
  * plan an activity with friends 
- * limitless-plains-8649.herokuapp.com 
+ * http://limitless-plains-8649.herokuapp.com 
 * http://github.com/noelRUCSD19/SPIS15-Project-web-Noel-Doni 
  * plan common free time.
  * http://gentle-everglades-8669.herokuapp.com
