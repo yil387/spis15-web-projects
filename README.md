@@ -18,7 +18,7 @@ README.md points to all the web project repos
  * http://yurmum.herokuapp.com
 * http://github.com/yil387/SPIS15-Project-web-Emily-Yvonne
  * Jeopardy Game 
- * http://stark-mesa-5249.herokuapp.com
+ * https://spis15-jeopardy.herokuapp.com
 * http://github.com/stonnu/SPIS15-Project-web-Shruti-Stefanie
  * plan an activity with friends 
  * http://limitless-plains-8649.herokuapp.com 
